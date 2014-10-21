@@ -11,8 +11,8 @@ Simple gem that logs your HTTP api requests just like database queries
 
 ## Installation
 
-``` sh
-gem install http_logger
+```ruby
+gem 'http_logger', git: 'git@github.com:netfira/http_logger', branch: 'master'
 ```
 
 ## Usage
